@@ -1,0 +1,14 @@
+---
+title: "Learning Markdown"
+author: "Sheila Locading"
+format: html
+editor: visual
+---
+
+![](LM%20pics.png)
+
+This is the equation of Albert Einstein: $E = mc^{2}$
+
+$$
+\[ \int_{a}^{b} x^2 \, dx \]
+$$
